@@ -1,3 +1,2 @@
-# Veebileht
-Project Covid
-Temp
+# Project Covid
+Current Version: 0.1
