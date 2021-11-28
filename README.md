@@ -1,2 +1,5 @@
 # Project Covid
-Current Version: 0.3
+
+Loodud vaktsineerimise edendamiseks.
+
+Current Version: 0.6
